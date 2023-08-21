@@ -1,5 +1,6 @@
 # Natural-Language-Processing
 In this repo we covered,
+
 Cleaning: Remove irrelevant items like HTML tags, symbols and non alphabetic characters from the corpus (Data set in NLP)
 
 Normalisation: Convert all words to lowercase and removing punctuation and extra spaces.
