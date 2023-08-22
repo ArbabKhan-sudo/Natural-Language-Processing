@@ -1,5 +1,5 @@
 # Natural-Language-Processing
-In this repo we covered,
+In this repo I covered,
 
 Cleaning: Remove irrelevant items like HTML tags, symbols, and nonalphabetic characters from the corpus (Data set in NLP)
 
@@ -16,4 +16,9 @@ Named Entity Recognition: Recognize the named entities in the data.
 Stemming and Lemmatisation: Convert words into their canonical / dictionary forms, using stemming
 and lemmatization.
 
-Speech-to-text conversion.
+Applications I covered,
+
+-> Speech-to-text conversion
+-> Text Preprocessing
+-> Language Modelling 
+
