@@ -21,4 +21,5 @@ Applications I covered,
 -> Speech-to-text conversion
 -> Text Preprocessing
 -> Language Modelling 
+-> Language Translation 
 
