@@ -13,7 +13,7 @@ Parts of Speech Tagging: Identify the parts of speech for the remaining words.
 
 Named Entity Recognition: Recognize the named entities in the data.
 
-Stemming and Lemmatisation: Convert words into their canonical / dictionary forms, using stemming
+Stemming and Lemmatisation: Convert words into dictionary forms, using stemming
 and lemmatization.
 
 Applications,
