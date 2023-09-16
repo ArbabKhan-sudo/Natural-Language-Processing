@@ -1,4 +1,3 @@
-# Natural-Language-Processing
 In this repo, I have covered preprocessing by,
 
 Cleaning: Remove irrelevant items like HTML tags, symbols, and nonalphabetic characters from the corpus (Data set in NLP)
