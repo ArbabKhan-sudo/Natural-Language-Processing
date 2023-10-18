@@ -18,7 +18,10 @@ and lemmatization.
 Applications
 
 -> Speech-to-text conversion
+
 -> Text Preprocessing
+
 -> Language Modelling 
+
 -> Language Translation 
 
