@@ -15,7 +15,7 @@ Named Entity Recognition: Recognize the named entities in the data.
 Stemming and Lemmatisation: Convert words into dictionary forms, using stemming
 and lemmatization.
 
-Applications
+Applications that are covered,
 
 -> Speech-to-text conversion
 
